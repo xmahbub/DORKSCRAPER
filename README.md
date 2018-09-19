@@ -12,11 +12,8 @@ Requirements
 
 Install
 ======= 
-
-The quick way::
-
-*pip install beautifulsoup4
-*pip install urllib 
+* pip install beautifulsoup4
+* pip install urllib 
 
 How to use 
 ==========
