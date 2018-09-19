@@ -8,7 +8,8 @@ such as data mining to monitoring automated testing etc.
 Requirements 
 ============ 
 * Python 2.7 or Python 3.4+ 
-* BeautifulSoup * Works on Linux, Windows, Mac OSX, BSD 
+* BeautifulSoup 
+* Works on Linux, Windows, Mac OSX, BSD 
 
 Install
 ======= 
