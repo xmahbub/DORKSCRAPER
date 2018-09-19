@@ -1,6 +1,6 @@
 Overview
 ========
-GOOGLE DORK SCRAPER is a url scraping tool.(PRESENT)
+GOOGLE DORK SCRAPER is a url(present) scraping tool.
 It is able to scrape data from the search engine google .By 
 editing some tag you are able to use it in various purposes, 
 such as data mining to monitoring automated testing etc.
