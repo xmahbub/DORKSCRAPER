@@ -1,9 +1,9 @@
 Overview
 ========
-GOOGLE DORK SCRAPER is a url scraping tool.
+GOOGLE DORK SCRAPER is a url scraping tool.(PRESENT)
 It is able to scrape data from the search engine google .By 
-editing some tag you are able to use it a wide range of 
-purposes, from data mining to monitoring and automated testing.
+editing some tag you are able to use it in various purposes, 
+such as data mining to monitoring automated testing etc.
  
 Requirements 
 ============ 
@@ -18,4 +18,4 @@ Install
 How to use 
 ==========
 
-$python3 script.py
+$ python3 script.py
